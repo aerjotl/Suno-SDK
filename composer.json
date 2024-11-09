@@ -1,5 +1,5 @@
 {
-    "name": "yunzhiyike/suno-ai-sdk",
+    "name": "aerjotl/suno-sdk",
     "description": "This is an unofficial Suno API based on PHP; it provides support for all Suno interfaces.",
     "type": "library",
     "license": "MIT",
